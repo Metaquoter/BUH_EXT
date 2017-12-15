@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Catalog uuid="22a24bc5-293e-4af6-8d52-ffc9d6b898cd">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Тен_Участки" category="Object">
+				<xr:TypeId>ad5b5761-a2d9-49d4-bda1-02bd26ea9ff3</xr:TypeId>
+				<xr:ValueId>908786cd-f1eb-4ead-b831-c49feb4b809e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Тен_Участки" category="Ref">
+				<xr:TypeId>973746a7-0d9e-4efa-b65e-11189fefbd69</xr:TypeId>
+				<xr:ValueId>3b971d54-4103-4652-883d-68d0d1a00ac0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Тен_Участки" category="Selection">
+				<xr:TypeId>646a5f06-5caa-4f8e-a702-1978f9e20f08</xr:TypeId>
+				<xr:ValueId>553b882b-1638-420d-a03f-65b785d77b0d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Тен_Участки" category="List">
+				<xr:TypeId>40db1292-9173-4373-862c-d755ff0f8a29</xr:TypeId>
+				<xr:ValueId>303d3d3e-d018-49d8-9e6d-eee6dfb39ad0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Тен_Участки" category="Manager">
+				<xr:TypeId>06931360-918b-4dc6-815d-dd8af1da143b</xr:TypeId>
+				<xr:ValueId>d31f633c-28b3-4c52-a4a4-8e506c1a8d4e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Тен_Участки</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
