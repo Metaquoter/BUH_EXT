@@ -62,9 +62,6 @@
 			<CommonPicture>ВставитьИзБуфераОбмена</CommonPicture>
 			<CommonPicture>СкопироватьВБуферОбмена</CommonPicture>
 			<CommonPicture>СостоянияДокумента</CommonPicture>
-			<CommonModule>ИнформацияПриЗапускеКлиент</CommonModule>
-			<CommonModule>ОбменДаннымиСобытия</CommonModule>
-			<CommonModule>ПолучениеОбновленийПрограммыКлиент</CommonModule>
 			<FunctionalOption>РазрешенаРаботаСНовостями</FunctionalOption>
 			<FunctionalOption>ИспользоватьВозвратнуюТару</FunctionalOption>
 			<FunctionalOption>ОсуществляетсяРеализацияТоваровУслугКомитентов</FunctionalOption>
